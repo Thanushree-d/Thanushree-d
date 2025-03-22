@@ -1,6 +1,6 @@
 <h1 align="center">Hello 👋, I'm Thanushree</h1>
 <h3 align="center">Passionate About Machine Learning,Focusing on Honsing Skills in Cloud Computing,Web Development.</h3>
-<img align="right" alt="Coding" width="400" src="https://res.cloudinary.com/practicaldev/image/fetch/s--O0u1bNHs--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://miro.medium.com/max/1400/0*PXf5ge7QCN9Ga_CL.gif">
+<img align="right" alt="Coding" width="400" src="https://pin.it/1LgttvYGF">
 
 - 🔭 I’m currently working on **Smart Agriculture**
 
