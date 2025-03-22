@@ -1,6 +1,6 @@
 <h1 align="center">Hello 👋, I'm Thanushree</h1>
 <h3 align="center">Passionate About Machine Learning,Focusing on Honsing Skills in Cloud Computing,Web Development.</h3>
-<img align="right" alt="Coding" width="400" src="https://images.app.goo.gl/2VVn">
+<img align="right" alt="Coding" width="400" src="https://cdnb.artstation.com/p/assets/images/images/028/991/999/original/anna-havrylyukh-.gif?1596125112">
 
 - 🔭 I’m currently working on **Smart Agriculture**
 
