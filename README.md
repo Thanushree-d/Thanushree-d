@@ -1,8 +1,16 @@
-<h1 align="center">Hello 👋, I'm Thanushree</h1>
-<h3 align="center">Passionate About Machine Learning,Focusing on Honsing Skills in Cloud Computing,Web Development.</h3>
+ <h1 align="center">Hello 👋, I'm Thanushree</h1>
+<h3 align="center">Full-Stack Developer | Machine Learning Enthusiast | Exploring Generative AI & Cloud Technologies</h3>
+
 <img align="right" alt="Coding" width="400" src="https://cdnb.artstation.com/p/assets/images/images/028/991/999/original/anna-havrylyukh-.gif?1596125112">
 
-- 🔭 I’m currently working on **Smart Agriculture**
+- 🔭 I’m currently working on **Full-Stack Development and AI-based Projects**
+- 🌱 I’m currently learning **Python Full Stack, Data Science, Hugging Face, and Generative AI**
+- 💻 Interested in **Web Development, Machine Learning, and Large Language Models (LLMs)**
+- ☁️ Exploring **Cloud Computing and AI Deployment**
+- 👯 Looking to collaborate on **Open-Source and Innovative Projects**
+- 💬 Ask me about **Python, React.js, Machine Learning, and Web Development**
+- 📫 How to reach me: **Connect with me on LinkedIn**
+- ⚡ Fun fact: **I love turning ideas into real-world applications!**
 
 - 📫 How to reach me **tanushree4233@gmail.com**
 
