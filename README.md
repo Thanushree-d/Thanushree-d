@@ -1,16 +1,16 @@
- <h1 align="center">Hello 👋, I'm Thanushree</h1>
-<h3 align="center">Full-Stack Developer | Machine Learning Enthusiast | Exploring Generative AI & Cloud Technologies</h3>
+<h1 align="center">Hello 👋, I'm Thanushree</h1>
+<h3 align="center">Computer Science Engineering Graduate | Aspiring Full-Stack Developer | Exploring Machine Learning & Generative AI</h3>
 
 <img align="right" alt="Coding" width="400" src="https://cdnb.artstation.com/p/assets/images/images/028/991/999/original/anna-havrylyukh-.gif?1596125112">
 
-- 🔭 I’m currently working on **Full-Stack Development and AI-based Projects**
-- 🌱 I’m currently learning **Python Full Stack, Data Science, Hugging Face, and Generative AI**
-- 💻 Interested in **Web Development, Machine Learning, and Large Language Models (LLMs)**
-- ☁️ Exploring **Cloud Computing and AI Deployment**
-- 👯 Looking to collaborate on **Open-Source and Innovative Projects**
-- 💬 Ask me about **Python, React.js, Machine Learning, and Web Development**
-- 📫 How to reach me: **Connect with me on LinkedIn**
-- ⚡ Fun fact: **I love turning ideas into real-world applications!**
+- 🎓 Computer Science Engineering Graduate (2026)
+- 💻 Skilled in **Python, React.js, JavaScript, MongoDB, and MySQL**
+- 🌱 Currently learning **Python Full Stack Development, Data Science, and Generative AI**
+- 🔭 Building projects in **Full-Stack Development and Machine Learning**
+- ☁️ Exploring **Cloud Computing and AI Technologies**
+- 👯 Open to collaborating on interesting projects
+- 💼 Actively looking for **Entry-Level Software Developer / Full-Stack Developer opportunities**
+- 📫 Let's connect and build something amazing!
 
 - 📫 How to reach me **tanushree4233@gmail.com**
 
