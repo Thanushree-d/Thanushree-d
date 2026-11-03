@@ -1,19 +1,19 @@
-<h1 align="center">Hello 👋, I'm Thanushree</h1>
-<h3 align="center">Computer Science Engineering Graduate | Aspiring Full-Stack Developer | Exploring Machine Learning & Generative AI</h3>
+ <h1 align="center">Hello 👋, I'm Thanushree</h1>
+<h3 align="center">Computer Science Engineering Graduate | Aspiring Full-Stack Developer | Machine Learning & Generative AI Enthusiast</h3>
 
 <img align="right" alt="Coding" width="400" src="https://cdnb.artstation.com/p/assets/images/images/028/991/999/original/anna-havrylyukh-.gif?1596125112">
+
 - 🎓 Computer Science Engineering Graduate (2026)
 - 💻 Skilled in **Python, JavaScript, and Java**
-- 🎨 Frontend: **HTML, CSS, JavaScript, React.js, Tailwind CSS**
-- ⚙️ Backend: **Python, Flask, FastAPI, REST APIs**
-- 🗄️ Databases: **MySQL, MongoDB, SQLite**
-- 🤖 Machine Learning & Data Science: **Scikit-learn, TensorFlow, Pandas, NumPy**
+- 🎨 **Frontend:** HTML, CSS, JavaScript, React.js, Tailwind CSS
+- ⚙️ **Backend:** Python, Flask, FastAPI, REST APIs
+- 🗄️ **Databases:** MySQL, MongoDB, SQLite
+- 🤖 **Machine Learning & Data Science:** Scikit-learn, TensorFlow, Pandas, NumPy
 - 🧠 Exploring **Generative AI, LLMs, and Hugging Face**
 - 🔭 Building projects in **Full-Stack Development and Machine Learning**
 - 💼 Actively seeking **Entry-Level Software Developer / Full-Stack Developer opportunities**
 - 👯 Open to collaborating on interesting projects
-- 📫 Let's connect and build something amazing!
-- 📫 How to reach me **tanushree4233@gmail.com**
+- 📫 How to reach me: **[tanushree4233@gmail.com](mailto:tanushree4233@gmail.com)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
